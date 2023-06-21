@@ -1,0 +1,2 @@
+Prefix plugins/CSVCol/example/
+Plugin CSVCol inputfile input.csv outputfile features.txt
